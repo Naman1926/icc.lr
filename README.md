@@ -34,17 +34,23 @@ filtrar por categoria, campus/local e período.
 - **Ator:** Todos
 - **Prioridade:** Alta
 - **Critérios de aceitação:**
-- [ ] <...>
+- [ ] O sistema informa os objetos e as informações sobre eles
 ### RF03: Registrar objeto perdido
-
-- **Descrição:** <...>
+- **Descrição:** O usuário pode registrar a perda de um objeto e receber uma notificação caso seja encontrado.
+- - **Ator** Estudante
 ### RF04: Solicitar devolução (reivindicar objeto)
-- **Descrição:** <como o dono prova que o objeto é dele?>
+- **Descrição:** O dono do objeto deve provar ser o dono por meio de fotos com o objeto, descrições detalhadas sobre ele, ou desbloquear o objeto caso seja um dispositivo móvel.
+- - **Ator:** Estudante
 ### RF05: Notificar possível correspondência
-- **Descrição:** <avisar quem perdeu quando surgir um objeto parecido>
+- **Descrição:** notifica o usuário que registrou uma perda caso um item correspondente seja encontrado.
+- - **Ator:** Sistema
 ### RF06: Registrar entrega ao dono
+- **Descrição:** Registra no sistema que a entrega do item ao dono foi realizada.
+- - **Ator:** Administrador
 ### RF07: Autenticar usuário
-### RF08: <novo requisito da equipe>
+- **Descrição:** Verificação a identidade do usuário por meio de um login
+- - **Ator:** Todos
+
 ## 5. Requisitos não funcionais
 | Código | Categoria | Requisito | Como medir |
 |--------|-----------|-----------|------------|
