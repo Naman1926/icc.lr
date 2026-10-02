@@ -8,8 +8,8 @@
 ## 2. Visão geral
 **Problema:** objetos perdidos no campus da UFRPE ficam espalhados entre
 portarias, secretarias e grupos de mensagem, e raramente voltam ao dono.
-**Solução proposta:** <descrevam em 3 a 5 linhas o que a aplicação faz>
-**Escopo:** <o que o sistema faz e o que ele NÃO faz. Ex.: não faz entregas>
+**Solução proposta:** Um sistema web que de achados e perdidos feito para organizar a guarda e devolução de itens perdidos pelos alunos
+**Escopo:** O sistema permite o registro de itens, pesquisa por categoria e a solicitação de devolução. O sistema não guarda ou entrega os itens perdidos.
 ## 3. Atores (usuários do sistema)
 | Ator | Descrição | O que precisa fazer |
 |------|-----------|---------------------|
