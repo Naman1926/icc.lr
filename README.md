@@ -14,9 +14,9 @@ portarias, secretarias e grupos de mensagem, e raramente voltam ao dono.
 | Ator | Descrição | O que precisa fazer |
 |------|-----------|---------------------|
 | Estudante | Aluno com matrícula ativa | Procurar objetos, registrar perdas |
-| Servidor | Professor ou técnico | <...> |
-| Ponto de guarda | Portaria, biblioteca ou secretaria que guarda o objeto | <...> |
-| Administrador | <...> | <...> |
+| Servidor | Professor ou técnico | Registrar perdas |
+| Ponto de guarda | Portaria, biblioteca ou secretaria que guarda o objeto | Guardar os objetos perdidos |
+| Administrador | Cuida do sistema | Avaliar e aceitar as solicitações de devolução |
 ## 4. Requisitos funcionais
 Formato: código, nome, descrição, ator, prioridade e critérios de aceitação.
 ### RF01: Cadastrar objeto encontrado
