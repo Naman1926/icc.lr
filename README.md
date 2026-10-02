@@ -56,10 +56,10 @@ filtrar por categoria, campus/local e período.
 |--------|-----------|-----------|------------|
 | RNF01 | Usabilidade | Funcionar em celular e computador | Testar em telas de 360 px a 1920 px |
 | RNF02 | Desempenho | Busca responde rápido | Resultado em até 2 segundos |
-| RNF03 | Segurança | <...> | <...> |
-| RNF04 | Privacidade (LGPD) | Não exibir dados pessoais de terceiros | <...> |
-| RNF05 | Acessibilidade | <...> | <...> |
-| RNF06 | Disponibilidade | <...> | <...> |
+| RNF03 | Segurança | Autenticação segura | Tentar visualizar dados confidenciais |
+| RNF04 | Privacidade (LGPD) | Não exibir dados pessoais de terceiros | Tentar visualizar dados de terceiros |
+| RNF05 | Acessibilidade | Sistema disponível para leitores e tela  com textos alternativos para imagens | Testar leitores de tela |
+| RNF06 | Disponibilidade | Funcionar 99% do tempo | Verificar se está funcionando em horarios diferentes |
 ## 6. Regras de negócio
 - **RN01:** Documentos oficiais (RG, CNH, cartão) não têm foto publicada;
 aparecem só como "documento encontrado".
